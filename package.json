@@ -1,0 +1,7 @@
+{
+  "name": "@volkov.o.e/test_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "dist/index.d.ts"
+}
